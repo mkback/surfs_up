@@ -13,4 +13,4 @@
 
 ## Summary 
 
-#####Given these results we can see there are not huge significant changes in temperatures between the two months of the year. This is good news for W. Avy as the weather shouldn’t affect sales too much throughout the year. To feel more confident with this decision we could run a query on how much rain fall or in which stations we see the best weather to decide if we have the best location on the island. 
+##### Given these results we can see there are not huge significant changes in temperatures between the two months of the year. This is good news for W. Avy as the weather shouldn’t affect sales too much throughout the year. To feel more confident with this decision we could run a query on how much rain fall or in which stations we see the best weather to decide if we have the best location on the island. 
