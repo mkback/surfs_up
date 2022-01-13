@@ -11,6 +11,8 @@ Using Matplotlib and python, the below chart was created to show the amount of r
 
 To compare temperature in Hawaii, we took a look at June and December results. Below are the summary statistics for each of these month’s temperatures. While it is slightly warmer in June, the two months do not have large differences. The average temperature in June was 75 degrees with a total range of 64-85 degrees while the average temperature in December was 71 degrees with a total range of 56-83 degrees.
 
-June: ![Alt Image Text](https://github.com/mkback/surfs_up/blob/main/Resources/June_temp_stats.png)  
+June: 
+![Alt Image Text](https://github.com/mkback/surfs_up/blob/main/Resources/June_temp_stats.png)  
 
-December: ![Alt Image Text](https://github.com/mkback/surfs_up/blob/main/Resources/Dec_temp_stats.png) 
+December: 
+![Alt Image Text](https://github.com/mkback/surfs_up/blob/main/Resources/Dec_temp_stats.png) 
